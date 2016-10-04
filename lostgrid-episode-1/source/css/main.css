@@ -1,0 +1,13 @@
+* {
+  lost-utility: edit;
+}
+
+.content {
+  lost-center: 900px;
+}
+
+.content--left-info,
+.content--right-info {
+  lost-column: 1/2;
+  height: 45px;
+}
